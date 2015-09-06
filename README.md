@@ -1,3 +1,3 @@
 # Artist website for Julia Dooley
 
-__full disclosure: Julia Dooley is my mother__
+_full disclosure: Julia Dooley is my mother_
